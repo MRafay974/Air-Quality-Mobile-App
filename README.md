@@ -1,4 +1,4 @@
-#🌍 Air Quality Mobile App
+# 🌍 Air Quality Mobile App
 A cross-platform mobile application built using Flutter that displays real-time Air Quality Index (AQI) and various gas concentration levels. The app communicates with a Node.js Express backend that provides sensor data collected from ESP-32 microcontroller nodes deployed in indoor environments.
 
 #📱 Features
