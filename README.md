@@ -1,16 +1,16 @@
-🌍 Air Quality Mobile App
+#🌍 Air Quality Mobile App
 A cross-platform mobile application built using Flutter that displays real-time Air Quality Index (AQI) and various gas concentration levels. The app communicates with a Node.js Express backend that provides sensor data collected from ESP-32 microcontroller nodes deployed in indoor environments.
 
-📱 Features
+#📱 Features
 Real-Time Dashboard – Visualizes live AQI and sensor data.
 
-Time-Based Filters – View data from:
+#Time-Based Filters – View data from:
 
 Last 1 hour
 
 Last 5 hours
 
-Gases & Parameters Tracked:
+#Gases & Parameters Tracked:
 
 Hydrogen (H₂)
 
@@ -28,11 +28,11 @@ Ammonia (NH₃)
 
 Methane (CH₄)
 
-Backend Integration – Fetches data from an Express.js API.
+#Backend Integration – Fetches data from an Express.js API.
 
-Interactive UI – Clean and easy-to-use dashboard.
+#Interactive UI – Clean and easy-to-use dashboard.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 Frontend: Flutter
 
 Backend: Node.js (Express)
